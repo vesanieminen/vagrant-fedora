@@ -12,4 +12,9 @@ Installation instructions
  4. ```vagrant up```
  5. Grab a cup of coffee and watch the installation go by in about five minutes (depending on your internet connection of course) :)
 
-My vim configuration is being loaded from this repository: https://github.com/vesanieminen/vim-conf
+Notes
+==============
+
+ * Use ```vagrant ssh``` to login to the virtual machine itself.
+ * /vagrant/ directory is mapped to the local machines vagrant-fedora/ directory
+ * My vim configuration is being loaded from this repository: https://github.com/vesanieminen/vim-conf
