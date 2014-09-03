@@ -1,7 +1,7 @@
 vagrant-fedora
 ==============
 
-This is a simple virtual machine to be used as a development environment for myself. It's still in its early stages and only supports a command line vim as the main IDE.
+This is a simple virtual machine to be used as a development environment for myself. It's still in its early stages and only supports a command line vim as the main IDE (there isn't any desktop environment like Gnome or KDE installed, yet).
 
 Installation instructions
 ==============
