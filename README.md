@@ -1,7 +1,7 @@
 vagrant-fedora
 ==============
 
-Fedora development environment created with Vagrant
+This is a simple virtual machine to be used as a development environment for myself. It's still in its early stages and only supports a command line vim as the main IDE.
 
 Installation instructions
 ==============
