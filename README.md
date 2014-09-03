@@ -11,3 +11,5 @@ Installation instructions
  3. ```cd vagrant-fedora```
  4. ```vagrant up```
  5. Grab a cup of coffee and watch the installation go by in about five minutes :)
+
+My vim configuration is being loaded from this repository: https://github.com/vesanieminen/vim-conf
