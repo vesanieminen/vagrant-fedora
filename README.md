@@ -7,10 +7,11 @@ Installation instructions
 ==============
 
  1. Download and install Vagrant: https://www.vagrantup.com/downloads.html
- 2. ```git clone https://github.com/vesanieminen/vagrant-fedora```
- 3. ```cd vagrant-fedora```
- 4. ```vagrant up```
- 5. Grab a cup of coffee and watch the installation go by in about five minutes (depending on your internet connection of course) :)
+ 2. Download and install Virtualbox: https://www.virtualbox.org/wiki/Downloads
+ 3. ```git clone https://github.com/vesanieminen/vagrant-fedora```
+ 4. ```cd vagrant-fedora```
+ 5. ```vagrant up```
+ 6. Grab a cup of coffee and watch the installation go by in about five minutes (depending on your internet connection of course) :)
 
 Notes
 ==============
